@@ -20,7 +20,7 @@ const Widgets = () => {
         <TwitterTweetEmbed tweetId={"1402320383932502021"} />
         <TwitterTimelineEmbed
           sourceType="profile"
-          screenName="Elliot"
+          screenName="reactjs"
           options={{ height: 400 }}
         />
         <TwitterShareButton
