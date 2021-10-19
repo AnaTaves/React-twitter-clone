@@ -3,19 +3,19 @@ import "firebase/firestore";
 import "firebase/auth";
 
 const config = {
-  apiKey: "AIzaSyDNIqUlCA3wBxuXaYTdQ9IhALfp7ZQvJk4",
+  apiKey: "",
 
-  authDomain: "twitter-clone-b1b67.firebaseapp.com",
+  authDomain: "",
 
-  projectId: "twitter-clone-b1b67",
+  projectId: "",
 
-  storageBucket: "twitter-clone-b1b67.appspot.com",
+  storageBucket: "",
 
-  messagingSenderId: "460880866161",
+  messagingSenderId: "",
 
-  appId: "1:460880866161:web:7ffac025728f7a359fe4d0",
+  appId: "",
 
-  measurementId: "G-35VPCD3DGV"
+  measurementId: ""
 };
 
 if (!firebase.apps.length) {
