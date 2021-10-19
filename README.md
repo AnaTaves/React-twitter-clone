@@ -1,2 +1,2 @@
 # React-twitter-clone
-Created with CodeSandbox
+[Link to live version](https://rzs78.csb.app/)
